@@ -98,11 +98,11 @@ new Vue({
           favorited: !1,
         },
         {
-          name: "12 - Hear Me Now",
-          artist: "Alok_ Bruno Martini feat. Zeeba",
+          name: "12 - Somebody That I Used To Know",
+          artist: "Gotye (feat. Kimbra)",
           cover: "img/12.jpg",
           source: "mp3/12.mp3",
-          url: "https://www.youtube.com/watch?v=JVpTp8IHdEg",
+          url: "https://www.youtube.com/watch?v=8UVNT4wvIGY",
           favorited: !1,
         },
         {
