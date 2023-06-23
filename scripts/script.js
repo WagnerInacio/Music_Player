@@ -34,12 +34,12 @@ new Vue({
           favorited: !1,
         },
         {
-          name: "04 - Butterflies",
-          artist: "Sia",
+          name: "04 - Valhalla Calling",
+          artist: "Miracle Of Sound ft Peyton Parrish",
           cover: "img/4.jpg",
           source: "mp3/4.mp3",
-          url: "https://www.youtube.com/watch?v=kYgGwWYOd9Y",
-          favorited: !1,
+          url: "https://www.youtube.com/watch?v=tG7fk_DUz5g",
+          favorited: !0,
         },
         {
           name: "05 - The Hunger In Your Haunt",
@@ -74,12 +74,12 @@ new Vue({
           favorited: !1,
         },
         {
-          name: "09 - Rag'n'Bone Man",
-          artist: "Human",
+          name: "09 - Madness",
+          artist: "Rulle",
           cover: "img/9.jpg",
           source: "mp3/9.mp3",
-          url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
-          favorited: !1,
+          url: "https://www.youtube.com/watch?v=aO-ZaF4FJls",
+          favorited: !0,
         },
         {
           name: "10 - Close eyes",
@@ -98,11 +98,11 @@ new Vue({
           favorited: !1,
         },
         {
-          name: "12 - Somebody That I Used To Know",
-          artist: "Gotye (feat. Kimbra)",
+          name: "12 - Until I Found You (Em Beihold Version)",
+          artist: "Stephen Sanchez",
           cover: "img/12.jpg",
           source: "mp3/12.mp3",
-          url: "https://www.youtube.com/watch?v=8UVNT4wvIGY",
+          url: "https://www.youtube.com/watch?v=kPlSyYtE63M",
           favorited: !1,
         },
         {
