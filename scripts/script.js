@@ -90,11 +90,11 @@ new Vue({
           favorited: !1,
         },
         {
-          name: "11 - Pumped up kicks",
-          artist: "Foster The People",
+          name: "11 - No Surprises",
+          artist: "Radiohead",
           cover: "img/11.jpg",
           source: "mp3/11.mp3",
-          url: "https://www.youtube.com/watch?v=SDTZ7iX4vTQ",
+          url: "https://www.youtube.com/watch?v=u5CVsCnxyXg",
           favorited: !1,
         },
         {
